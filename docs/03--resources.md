@@ -1,6 +1,11 @@
 
 ## 手工维护的资源列表
 
+### admin template
+
+Dashboard 参考这个模板：[TailAdmin](https://tailadmin.com/)
+
+
 ### Terms & Privacy
 
 网站需要这两个东西，可以免费生成：

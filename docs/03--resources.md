@@ -1,5 +1,11 @@
 
-## 手工维护的资源列表
+## English
+
+[Oxford 3000 and 5000](https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000)
+
+
+
+## 手工维护的资源列表(misc)
 
 
 ### admin template

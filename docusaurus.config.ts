@@ -72,7 +72,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/airoom-chat/dev.airoom.chat',
           label: 'GitHub',
           position: 'right',
         },

@@ -40,5 +40,6 @@
     POST airoom/topic
     POST airoom/topic/uploaded-to-r2
 
+    DELETE airoom/topic
 
 

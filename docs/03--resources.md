@@ -1,3 +1,25 @@
+---
+sidebar_position: 1
+title: Resources
+---
+
+## 常用链接
+
+[Hacker News](https://news.ycombinator.com/)
+
+[Reddit / ChatGPT](https://www.reddit.com/r/ChatGPT/)
+
+
+## 目前使用中的第三方资源
+
+### 图表 Chart.js
+
+[Chart.js](https://www.chartjs.org/)，使用其 [Svelte 整合 svelte-chartjs](https://github.com/SauravKanchan/svelte-chartjs)，该整合中有不同类型图表的代码示例。
+
+### 日期 Day.js
+
+[Day.js](https://github.com/iamkun/dayjs)
+
 
 ## English
 
@@ -6,6 +28,11 @@
 
 
 ## 手工维护的资源列表(misc)
+
+
+### 图片压缩
+
+[tinypng.com](https://tinypng.com/)
 
 
 ### admin template

@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-              Release 0.0.1 (2024.05.14)
+              v0.0.2 (2024-05-15)
           </Link>
         </div>
       </div>

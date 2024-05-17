@@ -1,8 +1,8 @@
 
 
-## 词汇教室
+## 创建词汇教室
 
-### 创建
+### 创建房间
 
 准备图片：
 
@@ -16,4 +16,14 @@
 
     POST airoom/room
 
+### 创建词条（topics）
 
+API:
+
+    POST airoom/topic/words
+
+
+## 词汇教室使用流程
+
+
+![workflow](./images/vocabuary-room-workflow.png)

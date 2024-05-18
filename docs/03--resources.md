@@ -14,6 +14,20 @@ title: Resources
 
 ### Hack News
 
+
+Tips:
+
+Tip#1: Title should always be as unique as possible.
+
+Tip#2: Best time to post is on weekends.
+
+Tip#3: Its good to get few upvotes immediately after posting.
+
+Tip#4: Keep engaging with the audience.
+
+Tip#5: Keep posting every week till you make it to the top and keep experimenting with the title.
+
+
 [如何在 Hacker News 上发布文章](https://nsdont.tech/2016/03/29/%E8%AF%91-%E5%A6%82%E4%BD%95%E5%9C%A8-Hacker-News-%E4%B8%8A%E5%8F%91%E5%B8%83%E6%96%87%E7%AB%A0/)
 
 2015 年的文章了，一些观点仍然适用：

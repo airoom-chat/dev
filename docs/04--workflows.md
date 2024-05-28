@@ -1,6 +1,12 @@
 
+## 创建 Youtube 词汇教室(100)
 
-## 创建词汇教室
+### 创建房间
+
+准备图片（同下面的99）
+
+
+## 创建词汇教室(99)
 
 ### 创建房间
 
@@ -27,3 +33,5 @@ API:
 
 
 ![workflow](./images/vocabuary-room-workflow.png)
+
+

@@ -1,4 +1,22 @@
 
+## Test：google 收录时间
+
+提交 sitemap.txt 5/29 8:15pm
+
+
+## videos
+
+跟读，练习发音。浏览量1000w [](https://www.youtube.com/watch?v=EL6gw96u1-U)
+
+
+仅仅是交谈，比如看了这个视频：[](https://www.youtube.com/watch?v=ZI1ZRqtpvF4)，就可以简单的和ai谈谈。
+
+
+听力训练 [](https://www.youtube.com/watch?v=orBkNYE4U5o)
+
+
+
+
 ## textarea 自动调整高度
 
 [Textarea Auto height](https://stackoverflow.com/a/24676492)

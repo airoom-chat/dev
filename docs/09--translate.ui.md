@@ -39,6 +39,41 @@ Thai
 ภาษาไทย
 
 
+        "ja": "日本語",
+        "ko": "한국어",
+        "zh-Hant": "繁體中文",
+        "zh": "简体中文",
+        "de": "Deutsch",
+        "es": "español",
+        "fr": "français",
+
+
+
+Translate the following words into Japanese, Korean, Traditional Chinese,
+Simplified Chinese, German, Spanish, French, Italian, Thai,
+Vietnamese, Arabic, Russian, and Portuguese.
+
+## Translate
+
+Translate the following words into Italian, Thai,
+Vietnamese, Arabic, Russian, and Portuguese.
+      Do not use markdown.
+      Only translate the values in the JSON. Keep the keys in the JSON.
+      Output is using the following JSON schema:
+      {
+        "it": "italiano",
+        "th": "ภาษาไทย"
+        "vi": "tiếng Việt"},
+        "ar": "اَلْعَرَبِيَّةُ",
+        "ru": "русский язык",
+        "pt": "português"
+      }
+
+```
+In this video, we will accompany you on a profound journey into the precious topic - "Don't Waste Your Time." We have prepared this content to help you understand the importance of using your time wisely and effectively like never before. You will be motivated by real-life stories and practical advice on how to make the most of every moment to progress further in your life and career. If you want to learn how to steer clear of time-wasting, optimize your efficiency, and make significant changes in your life, then this is undoubtedly the video you can't afford to miss. Get ready to face life wisely and shine in every aspect. Pause, listen, and let us guide you on the path to a meaningful life while making the most of your time.
+```
+
+
 ## Prompt
 
 Translate the following JSON of a website UI into Japanese, Korean, Traditional Chinese,
@@ -109,3 +144,16 @@ Vietnamese, Arabic, Russian, and Portuguese.
 
 
 
+Translate the following words into
+Russian, and Portuguese.
+      Do not use markdown.
+      Only translate the values in the JSON. Keep the keys in the JSON.
+      Output is using the following JSON schema:
+      {
+        "ru": "русский язык",
+        "pt": "português"
+      }
+
+```
+The video follows a day in the life of a content creator exploring New York City, showcasing the city's beauty, running into friends, making a big tech purchase, and enjoying drinks in the West Village. Overall, the vlogger expresses gratitude for their career transition and the fulfilling experiences it brings.
+```
